@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/bin/Debug/netcoreapp3.0/linq-practice
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/bin/Debug/netcoreapp3.0/linq-practice.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/bin/Debug/netcoreapp3.0/linq-practice.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/bin/Debug/netcoreapp3.0/linq-practice.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/bin/Debug/netcoreapp3.0/linq-practice.dll
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/bin/Debug/netcoreapp3.0/linq-practice.pdb
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/obj/Debug/netcoreapp3.0/linq-practice.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/obj/Debug/netcoreapp3.0/linq-practice.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/obj/Debug/netcoreapp3.0/linq-practice.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/obj/Debug/netcoreapp3.0/linq-practice.dll
+/Users/harooniqbal/workspace/csharp/exercises/linq-practice/obj/Debug/netcoreapp3.0/linq-practice.pdb
